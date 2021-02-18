@@ -1,9 +1,2 @@
 {
-  "extends": ["config:base"],
-  "packageRules": [
-    {
-      "matchPaths": ["library/package.json"],
-      "enabled": false
-    }
-  ]
 }
