@@ -179,10 +179,10 @@
   dependencies:
     tslib "^2.0.0"
 
-"@angular/compiler-cli@11.2.1":
-  version "11.2.1"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-11.2.1.tgz#7eb3c8d0b685c61a88ac665067043c90129df573"
-  integrity sha512-btbCM+KrAmQnikwldBr5P7I5yQBBZqyGBhs/ANjcCcBkE1cMVMFlRUvD4jp0uHjcdGshcFi71s2DSOcPukh59A==
+"@angular/compiler-cli@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-11.2.14.tgz#fdd22aeec25aa2477595bed631d19e977254ecc5"
+  integrity sha512-A7ltnCp03/EVqK/Q3tVUDsokgz5GHW3dSPGl0Csk7Ys5uBB9ibHTmVt4eiXA4jt0+6Bk+mKxwe5BEDqLvwYFAg==
   dependencies:
     "@babel/core" "^7.8.6"
     "@babel/types" "^7.8.6"
@@ -198,7 +198,7 @@
     source-map "^0.6.1"
     sourcemap-codec "^1.4.8"
     tslib "^2.0.0"
-    yargs "^16.1.1"
+    yargs "^16.2.0"
 
 "@angular/compiler@11.2.1":
   version "11.2.1"
