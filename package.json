@@ -40,7 +40,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "0.1102.1",
     "@angular/cli": "11.2.1",
-    "@angular/compiler-cli": "11.2.1",
+    "@angular/compiler-cli": "12.2.10",
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
     "@commitlint/travis-cli": "11.0.0",
